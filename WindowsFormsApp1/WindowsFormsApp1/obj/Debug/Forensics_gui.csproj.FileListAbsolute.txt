@@ -8,3 +8,13 @@ C:\Users\danijels\Google Drive\Biznis\forensic gui\WindowsFormsApp1\WindowsForms
 C:\Users\danijels\Google Drive\Biznis\forensic gui\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Forensics_gui.csproj.CoreCompileInputs.cache
 C:\Users\danijels\Google Drive\Biznis\forensic gui\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\danijels\Google Drive\Biznis\forensic gui\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Forensics_gui.csprojAssemblyReference.cache
+C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.resources
+C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Forensics_gui.csproj.GenerateResource.cache
+C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Forensics_gui.csproj.CoreCompileInputs.cache
+C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

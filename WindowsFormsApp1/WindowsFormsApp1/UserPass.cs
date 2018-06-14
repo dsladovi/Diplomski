@@ -16,11 +16,11 @@ namespace WindowsFormsApp1
     {
         public void run_script()
         {
-            string scriptPath = @"C:\Users\danijels\Desktop\dd\Python\APs\AP_acces_points_passwords.py";
+            string scriptPath = @"C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\Python\APs\AP_acces_points_passwords.py";
 
             Process p = new Process();
             p.StartInfo = new ProcessStartInfo(@"C:\Python27\python.exe", scriptPath);
-            p.StartInfo.WorkingDirectory = @"C:\\Users\danijels\Desktop\dd\Python\APs";
+            p.StartInfo.WorkingDirectory = @"C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\Python\APs";
             p.Start();
             p.WaitForExit();
             p.Close();

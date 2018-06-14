@@ -18,7 +18,7 @@ namespace WindowsFormsApp1
         public void prefetching()
         {
             
-            string scriptPath = @"C:\Users\danijels\Desktop\dd\Python\WindowsPrefetch+\prefetch.py";
+            string scriptPath = @"C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\Python\WindowsPrefetch+\prefetch.py";
            
             Process p = new Process();
                   
