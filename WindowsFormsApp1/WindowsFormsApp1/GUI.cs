@@ -45,7 +45,9 @@ namespace WindowsFormsApp1
             if (openFileDialog.ShowDialog() == DialogResult.OK)
             {
                 path2 = openFileDialog.FileName;
-                MessageBox.Show(path2, "reg");
+                RecentDocs recent = new RecentDocs();
+                recent.run_script(path2);
+
             }
         }
             private void timelineBTN_Click(object sender, EventArgs e)
