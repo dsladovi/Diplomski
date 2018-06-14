@@ -1,0 +1,10 @@
+C:\Users\danijels\Google Drive\Biznis\forensic gui\Forensic_gui\Forensic_gui\obj\Debug\Forensic_gui.csprojAssemblyReference.cache
+C:\Users\danijels\Google Drive\Biznis\forensic gui\Forensic_gui\Forensic_gui\obj\Debug\Forensic_gui.Form1.resources
+C:\Users\danijels\Google Drive\Biznis\forensic gui\Forensic_gui\Forensic_gui\obj\Debug\Forensic_gui.Properties.Resources.resources
+C:\Users\danijels\Google Drive\Biznis\forensic gui\Forensic_gui\Forensic_gui\obj\Debug\Forensic_gui.csproj.GenerateResource.cache
+C:\Users\danijels\Google Drive\Biznis\forensic gui\Forensic_gui\Forensic_gui\obj\Debug\Forensic_gui.csproj.CoreCompileInputs.cache
+C:\Users\danijels\Google Drive\Biznis\forensic gui\Forensic_gui\Forensic_gui\bin\Debug\Forensic_gui.exe.config
+C:\Users\danijels\Google Drive\Biznis\forensic gui\Forensic_gui\Forensic_gui\bin\Debug\Forensic_gui.exe
+C:\Users\danijels\Google Drive\Biznis\forensic gui\Forensic_gui\Forensic_gui\bin\Debug\Forensic_gui.pdb
+C:\Users\danijels\Google Drive\Biznis\forensic gui\Forensic_gui\Forensic_gui\obj\Debug\Forensic_gui.exe
+C:\Users\danijels\Google Drive\Biznis\forensic gui\Forensic_gui\Forensic_gui\obj\Debug\Forensic_gui.pdb
