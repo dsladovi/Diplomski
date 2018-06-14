@@ -21,12 +21,11 @@ namespace WindowsFormsApp1
             string scriptPath = @"C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\Python\WindowsPrefetch+\prefetch.py";
            
             Process p = new Process();
-                  
-            p.StartInfo = new ProcessStartInfo(@"C:\Python27\python.exe", scriptPath);
-            
-            p.Start();
-            p.WaitForExit();
-            p.Close();
+                //p.StartInfo.WorkingDirectory = @"C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\Python\WindowsPrefetch+";
+                p.StartInfo = new ProcessStartInfo(@"C:\Python27\python.exe", scriptPath);
+                p.Start();
+                p.WaitForExit();
+                p.Close();
 
         }
         

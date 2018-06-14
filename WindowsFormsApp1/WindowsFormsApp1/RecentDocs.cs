@@ -21,12 +21,21 @@ namespace WindowsFormsApp1
 
             Process p = new Process();
 
-            p.StartInfo = new ProcessStartInfo(@"C:\Python27\python.exe", scriptPath);
-            p.StartInfo.WorkingDirectory = @"C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\Python\RecentDocsMRU-gotovo";
-            p.Start();
-            p.WaitForExit();
-            p.Close();
-            MessageBox.Show("Rezultati ove skripte su pohranjeni u: C:\\Users\\danijels\\Documents\\GitHub\\Dipl\\Diplomski\\Python\\RecentDocsMRU-gotovo", "Rezultati");
+                p.StartInfo = new ProcessStartInfo(@"C:\Python27\python.exe", scriptPath);
+                p.StartInfo.WorkingDirectory = @"C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\Python\RecentDocsMRU-gotovo";
+                p.Start();
+                p.WaitForExit();
+                p.Close();
+
+            DialogResult message = MessageBox.Show("Zelite li pogledati rezultate?","Upozorenje",MessageBoxButtons.YesNo);
+            if (message == DialogResult.Yes)
+            {
+                Process.Start(@"C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\Python\RecentDocsMRU-gotovo\rezultati.txt");
+            }
+            else
+            {
+                MessageBox.Show("Rezultati ove skripte su pohranjeni u: C:\\Users\\danijels\\Documents\\GitHub\\Dipl\\Diplomski\\Python\\RecentDocsMRU - gotovo", "Rezultati");
+            }
         }
 
     }
