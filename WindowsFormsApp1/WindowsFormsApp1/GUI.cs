@@ -52,15 +52,10 @@ namespace WindowsFormsApp1
         }
             private void timelineBTN_Click(object sender, EventArgs e)
         {
-            // Otvaranje Browse forme kako bi se odabrala datoteka koja je potrebna za izvrsiti skriptu
-            openFileDialog.RestoreDirectory = true;
-            string path3 = "";
 
-            if (openFileDialog.ShowDialog() == DialogResult.OK)
-            {
-                path3 = openFileDialog.FileName;
-                MessageBox.Show(path3, "timeline");
-            }
+            Timeline tm = new Timeline();
+            tm.timeline_extractor();
+
         }
 
         

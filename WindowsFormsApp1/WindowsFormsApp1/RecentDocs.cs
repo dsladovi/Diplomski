@@ -16,8 +16,8 @@ namespace WindowsFormsApp1
     {
         public void run_script(string put)
         {
-            string outputFile = @"-o C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\Python\RecentDocsMRU-gotovo\rezultati.txt";
-            string scriptPath = @"C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\Python\RecentDocsMRU-gotovo\recentdocs-mru.py -f "+put+" "+outputFile;
+            string outputFile = @"-o C:\Users\gslad\Documents\GitHub\Diplomski\Python\RecentDocsMRU-gotovo\rezultati.txt";
+            string scriptPath = @"C:\Users\gslad\Documents\GitHub\Diplomski\Python\RecentDocsMRU-gotovo\recentdocs-mru.py -f "+put+" "+outputFile;
 
             Process p = new Process();
 
@@ -30,11 +30,11 @@ namespace WindowsFormsApp1
             DialogResult message = MessageBox.Show("Zelite li pogledati rezultate?","Upozorenje",MessageBoxButtons.YesNo);
             if (message == DialogResult.Yes)
             {
-                Process.Start(@"C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\Python\RecentDocsMRU-gotovo\rezultati.txt");
+                Process.Start(@"C:\Users\gslad\Documents\GitHub\Diplomski\Python\RecentDocsMRU-gotovo\rezultati.txt");
             }
             else
             {
-                MessageBox.Show("Rezultati ove skripte su pohranjeni u: C:\\Users\\danijels\\Documents\\GitHub\\Dipl\\Diplomski\\Python\\RecentDocsMRU - gotovo", "Rezultati");
+                MessageBox.Show("Rezultati ove skripte su pohranjeni u: C:\\Users\\gslad\\Documents\\GitHub\\Diplomski\\Python\\RecentDocsMRU - gotovo", "Rezultati");
             }
         }
 

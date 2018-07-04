@@ -18,3 +18,13 @@ C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\WindowsFormsApp1\WindowsFormsA
 C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Forensics_gui.csproj.CoreCompileInputs.cache
 C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\gslad\Documents\GitHub\Diplomski\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\gslad\Documents\GitHub\Diplomski\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\gslad\Documents\GitHub\Diplomski\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\gslad\Documents\GitHub\Diplomski\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Forensics_gui.csprojAssemblyReference.cache
+C:\Users\gslad\Documents\GitHub\Diplomski\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.resources
+C:\Users\gslad\Documents\GitHub\Diplomski\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\gslad\Documents\GitHub\Diplomski\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Forensics_gui.csproj.GenerateResource.cache
+C:\Users\gslad\Documents\GitHub\Diplomski\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Forensics_gui.csproj.CoreCompileInputs.cache
+C:\Users\gslad\Documents\GitHub\Diplomski\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\gslad\Documents\GitHub\Diplomski\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

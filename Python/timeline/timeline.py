@@ -2,7 +2,7 @@ import sqlite3
 import datetime
 import csv
 
-connection = sqlite3.connect('C:\Users\danijels\Desktop\ActivitiesCache.db')
+connection = sqlite3.connect('C:\Users\gslad\AppData\Local\ConnectedDevicesPlatform\L.Omen\ActivitiesCache.db')
 c = connection.cursor()
 def AppID (app):
     kot = chr(34)
