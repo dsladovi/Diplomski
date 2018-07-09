@@ -18,7 +18,7 @@
 
 
 
-from argparse import ArgumentParser
+
 import binascii
 import ctypes
 from datetime import datetime,timedelta
@@ -521,8 +521,8 @@ def convertTimestamp(timestamp):
 
 def main():
     backSl = chr(92)
-    izv="C:\Users\danijels\Desktop\N"+backSl
-
+    izv="C:\Users\gslad\Documents\GitHub\Diplomski\Python\WindowsPrefetch+\Prefetch"+backSl
+    sys.stdout = open("C:\Users\gslad\Documents\GitHub\Diplomski\Rezultati\Prefetch\PrefetchRezultati.txt", "w")
     if os.path.isdir(izv):
         for i in os.listdir(izv):
             if i.endswith(".pf"):
@@ -537,4 +537,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+sys.stdout.close()
 os.system("pause")

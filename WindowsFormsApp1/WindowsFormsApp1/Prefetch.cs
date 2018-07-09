@@ -9,6 +9,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
+using IronPython.Hosting;
+using Microsoft.Scripting.Hosting;
+
 
 namespace WindowsFormsApp1
 {
@@ -17,15 +20,25 @@ namespace WindowsFormsApp1
 
         public void prefetching()
         {
-            
-            string scriptPath = @"C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\Python\WindowsPrefetch+\prefetch.py";
+
+            string scriptPath = @"C:\Users\gslad\Documents\GitHub\Diplomski\Python\WindowsPrefetch+\prefetch.py";
            
             Process p = new Process();
-                //p.StartInfo.WorkingDirectory = @"C:\Users\danijels\Documents\GitHub\Dipl\Diplomski\Python\WindowsPrefetch+";
+                
                 p.StartInfo = new ProcessStartInfo(@"C:\Python27\python.exe", scriptPath);
                 p.Start();
                 p.WaitForExit();
                 p.Close();
+
+            DialogResult message = MessageBox.Show("Zelite li pogledati rezultate?", "Upozorenje", MessageBoxButtons.YesNo);
+            if (message == DialogResult.Yes)
+            {
+                Process.Start(@"C:\Users\gslad\Documents\GitHub\Diplomski\Rezultati\Prefetch\PrefetchRezultati.txt");
+            }
+            else
+            {
+                MessageBox.Show("Rezultati ove skripte su pohranjeni u: C:\\Users\\gslad\\Documents\\GitHub\\Diplomski\\Rezultati\\Prefetch", "Rezultati");
+            }
 
         }
         

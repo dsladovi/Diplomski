@@ -21,7 +21,7 @@ namespace WindowsFormsApp1
             Process pr = new Process();
 
             pr.StartInfo = new ProcessStartInfo(@"C:\Python27\python.exe", scriptPath);
-            pr.StartInfo.WorkingDirectory = @"C:\Users\gslad\Documents\GitHub\Diplomski\Python\timeline";
+            pr.StartInfo.WorkingDirectory = @"C:\Users\gslad\Documents\GitHub\Diplomski\Rezultati\Timeline";
             pr.Start();
             pr.WaitForExit();
             pr.Close();
@@ -29,11 +29,11 @@ namespace WindowsFormsApp1
                 DialogResult message = MessageBox.Show("Zelite li pogledati rezultate?", "Upozorenje", MessageBoxButtons.YesNo);
                 if (message == DialogResult.Yes)
                 {
-                    Process.Start(@"C:\Users\gslad\Documents\GitHub\Diplomski\Python\timeline\dat.txt");
+                    Process.Start(@"C:\Users\gslad\Documents\GitHub\Diplomski\Rezultati\Timeline\TimelineData.txt");
                 }
                 else
                 {
-                    MessageBox.Show("Rezultati ove skripte su pohranjeni u: C:\\Users\\gslad\\Documents\\GitHub\\Diplomski\\Python\\timeline", "Rezultati");
+                    MessageBox.Show("Rezultati ove skripte su pohranjeni u: C:\\Users\\gslad\\Documents\\GitHub\\Diplomski\\Rezultati\\Timeline", "Rezultati");
                 }
                 
             }

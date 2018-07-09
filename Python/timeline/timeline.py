@@ -24,7 +24,7 @@ with open('timeline.csv', 'wb')as csvfile:
     writer.writeheader()
 
 # TXT file
-datoteka = open("dat.txt","w")
+datoteka = open("C:\Users\gslad\Documents\GitHub\Diplomski\Rezultati\Timeline\TimelineData.txt","w")
 
 
 #Data stores in Activity table

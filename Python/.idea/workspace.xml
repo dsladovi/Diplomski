@@ -11,11 +11,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="prefetch.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WindowsPrefetch+/prefetch.py">
+      <file leaf-file-name="recentdocs-mru.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RecentDocsMRU-gotovo/recentdocs-mru.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="536" selection-start-line="536" selection-end-line="536" />
+            <state relative-caret-position="111">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#778#801#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,14 +40,15 @@
         <option value="$PROJECT_DIR$/ShellBags/ShellBags_script.py" />
         <option value="$PROJECT_DIR$/AP acces points passwords.py" />
         <option value="$PROJECT_DIR$/WindowsPrefetch+/prefetch.py" />
+        <option value="$PROJECT_DIR$/RecentDocsMRU-gotovo/recentdocs-mru.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1947" />
+    <option name="x" value="1708" />
     <option name="y" value="-28" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="width" value="1939" />
+    <option name="height" value="1099" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -57,6 +61,11 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="RecentDocsMRU-gotovo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -86,7 +95,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.recentdocs-mru">
     <configuration name="AP acces points passwords" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,8 +114,51 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="prefetch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WindowsPrefetch+" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WindowsPrefetch+/prefetch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="recentdocs-mru" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RecentDocsMRU-gotovo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RecentDocsMRU-gotovo/recentdocs-mru.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.AP acces points passwords" />
+      <item itemvalue="Python.prefetch" />
+      <item itemvalue="Python.recentdocs-mru" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.recentdocs-mru" />
+        <item itemvalue="Python.prefetch" />
         <item itemvalue="Python.AP acces points passwords" />
       </list>
     </recent_temporary>
@@ -125,15 +177,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1672" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="1912" y="-8" width="1376" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1453125" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14485294" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3537207" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.57847536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -156,6 +208,60 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WindowsPrefetch+/prefetch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8857">
+          <caret line="528" column="44" lean-forward="true" selection-start-line="528" selection-start-column="44" selection-end-line="528" selection-end-column="44" />
+          <folding>
+            <element signature="e#636#651#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WindowsPrefetch+/prefetch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8823">
+          <caret line="526" column="63" selection-start-line="526" selection-start-column="63" selection-end-line="526" selection-end-column="63" />
+          <folding>
+            <element signature="e#636#651#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WindowsPrefetch+/prefetch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#636#651#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WindowsPrefetch+/prefetch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9163">
+          <caret line="539" column="18" selection-start-line="539" selection-start-column="18" selection-end-line="539" selection-end-column="18" />
+          <folding>
+            <element signature="e#636#651#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WindowsPrefetch+/prefetch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8891">
+          <caret line="523" column="83" selection-start-line="523" selection-start-column="83" selection-end-line="523" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WindowsPrefetch+/prefetch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9112">
+          <caret line="536" selection-start-line="536" selection-end-line="536" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AP acces points passwords.py" />
     <entry file="file://$PROJECT_DIR$/AP acces points passwords.py" />
     <entry file="file://$PROJECT_DIR$/AP acces points passwords.py" />
@@ -167,17 +273,24 @@
     <entry file="file://$PROJECT_DIR$/AP acces points passwords.py" />
     <entry file="file://$PROJECT_DIR$/AP acces points passwords.py" />
     <entry file="file://$PROJECT_DIR$/venv/acces.py" />
-    <entry file="file://$PROJECT_DIR$/Prefetch script/Prefetch.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShellBags/ShellBags_script.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/AP acces points passwords.py" />
     <entry file="file://$PROJECT_DIR$/WindowsPrefetch+/prefetch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="536" selection-start-line="536" selection-end-line="536" />
+        <state relative-caret-position="411">
+          <caret line="528" column="44" selection-start-line="528" selection-start-column="44" selection-end-line="528" selection-end-column="44" />
+          <folding>
+            <element signature="e#636#651#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecentDocsMRU-gotovo/recentdocs-mru.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#778#801#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
