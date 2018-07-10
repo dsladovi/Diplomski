@@ -16,7 +16,7 @@ namespace WindowsFormsApp1
     {
         public void run_script(string put)
         {
-            string outputFile = @"-o C:\Users\gslad\Documents\GitHub\Diplomski\Rezultati\RecentDocs\dat.txt";
+            string outputFile = @"-o C:\Users\gslad\Documents\GitHub\Diplomski\Rezultati\RecentDocs\RecentDoc.txt";
             string scriptPath = @"C:\Users\gslad\Documents\GitHub\Diplomski\Python\RecentDocsMRU-gotovo\recentdocs-mru.py -f "+put+" "+outputFile;
 
             Process p = new Process();
@@ -30,7 +30,7 @@ namespace WindowsFormsApp1
             DialogResult message = MessageBox.Show("Zelite li pogledati rezultate?","Upozorenje",MessageBoxButtons.YesNo);
             if (message == DialogResult.Yes)
             {
-                Process.Start(@"C:\Users\gslad\Documents\GitHub\Diplomski\Rezultati\RecentDocs\dat.txt");
+                Process.Start(@"C:\Users\gslad\Documents\GitHub\Diplomski\Rezultati\RecentDocs\RecentDoc.txt");
             }
             else
             {
