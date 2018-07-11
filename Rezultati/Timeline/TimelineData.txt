@@ -1,12 +1,3 @@
-FIle opend: µTorrent
-Program used: µTorrent
-path to file: none
-Last modified: 05/21/18 23:15:58
-Expired: 07/10/18 17:55:46
-Last modified on client: 05/21/18 23:15:58
-Start time: 05/21/18 23:15:58
-End time: 01/01/70 01:00:00
------------------------------------------------------------------------------------------------------
 FIle opend: Lightshot.exe
 Program used: Lightshot.exe
 path to file: none
@@ -23,42 +14,6 @@ Last modified: 05/22/18 22:37:44
 Expired: 07/19/18 22:34:08
 Last modified on client: 05/22/18 22:37:44
 Start time: 05/22/18 22:37:44
-End time: 01/01/70 01:00:00
------------------------------------------------------------------------------------------------------
-FIle opend: WhatsChrome
-Program used: WhatsChrome
-path to file: none
-Last modified: 05/23/18 22:30:53
-Expired: 07/10/18 18:28:02
-Last modified on client: 05/23/18 22:30:53
-Start time: 05/23/18 22:30:53
-End time: 01/01/70 01:00:00
------------------------------------------------------------------------------------------------------
-FIle opend: Task Manager
-Program used: Task Manager
-path to file: none
-Last modified: 05/23/18 23:01:46
-Expired: 07/10/18 15:05:28
-Last modified on client: 05/23/18 23:01:46
-Start time: 05/23/18 23:01:46
-End time: 01/01/70 01:00:00
------------------------------------------------------------------------------------------------------
-FIle opend: KMPlayer
-Program used: KMPlayer
-path to file: none
-Last modified: 05/23/18 23:35:51
-Expired: 07/10/18 21:23:40
-Last modified on client: 05/23/18 23:35:51
-Start time: 05/23/18 23:35:51
-End time: 01/01/70 01:00:00
------------------------------------------------------------------------------------------------------
-FIle opend: nvcplui.exe
-Program used: nvcplui.exe
-path to file: none
-Last modified: 05/26/18 14:41:05
-Expired: 07/10/18 15:04:56
-Last modified on client: 05/26/18 14:41:05
-Start time: 05/26/18 14:41:05
 End time: 01/01/70 01:00:00
 -----------------------------------------------------------------------------------------------------
 FIle opend: Google Chrome
@@ -115,258 +70,6 @@ Last modified on client: 06/04/18 22:43:35
 Start time: 06/04/18 22:43:35
 End time: 01/01/70 01:00:00
 -----------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 02:12:31
-Expired: 07/10/18 02:12:31
-Last modified on client: 06/10/18 02:12:31
-Start time: 06/10/18 02:11:03
-End time: 06/10/18 02:12:31
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 02:12:41
-Expired: 07/10/18 02:12:41
-Last modified on client: 06/10/18 02:15:21
-Start time: 06/10/18 02:12:36
-End time: 06/10/18 02:15:21
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 02:12:47
-Expired: 07/10/18 02:12:47
-Last modified on client: 06/10/18 02:12:47
-Start time: 06/10/18 02:12:41
-End time: 06/10/18 02:12:47
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 02:15:34
-Expired: 07/10/18 02:15:34
-Last modified on client: 06/10/18 02:15:34
-Start time: 06/10/18 02:15:25
-End time: 06/10/18 02:15:34
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 02:15:54
-Expired: 07/10/18 02:15:54
-Last modified on client: 06/10/18 02:16:19
-Start time: 06/10/18 02:15:34
-End time: 06/10/18 02:16:19
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 03:21:51
-Expired: 07/10/18 03:21:51
-Last modified on client: 06/10/18 03:31:41
-Start time: 06/10/18 02:16:19
-End time: 06/10/18 03:31:41
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 03:22:19
-Expired: 07/10/18 03:22:19
-Last modified on client: 06/10/18 03:31:43
-Start time: 06/10/18 03:21:51
-End time: 06/10/18 03:31:43
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 03:33:04
-Expired: 07/10/18 03:33:04
-Last modified on client: 06/10/18 03:33:04
-Start time: 06/10/18 03:31:49
-End time: 06/10/18 03:33:04
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 03:34:28
-Expired: 07/10/18 03:34:28
-Last modified on client: 06/10/18 03:34:28
-Start time: 06/10/18 03:33:06
-End time: 06/10/18 03:34:28
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 03:36:59
-Expired: 07/10/18 03:36:59
-Last modified on client: 06/10/18 03:45:39
-Start time: 06/10/18 03:35:45
-End time: 06/10/18 03:45:39
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 03:45:55
-Expired: 07/10/18 03:45:55
-Last modified on client: 06/10/18 04:43:36
-Start time: 06/10/18 03:45:43
-End time: 06/10/18 04:43:36
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 10:57:03
-Expired: 07/10/18 10:57:03
-Last modified on client: 06/10/18 11:51:13
-Start time: 06/10/18 10:52:45
-End time: 06/10/18 11:51:13
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 10:57:05
-Expired: 07/10/18 10:57:05
-Last modified on client: 06/10/18 10:57:05
-Start time: 06/10/18 10:57:03
-End time: 06/10/18 10:57:05
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 11:20:53
-Expired: 07/10/18 11:20:53
-Last modified on client: 06/10/18 11:20:53
-Start time: 06/10/18 11:20:28
-End time: 06/10/18 11:20:53
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 11:56:10
-Expired: 07/10/18 11:56:10
-Last modified on client: 06/10/18 12:02:38
-Start time: 06/10/18 11:56:07
-End time: 06/10/18 12:02:38
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 11:57:34
-Expired: 07/10/18 11:57:34
-Last modified on client: 06/10/18 11:57:34
-Start time: 06/10/18 11:57:31
-End time: 06/10/18 11:57:34
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 11:59:19
-Expired: 07/10/18 11:59:19
-Last modified on client: 06/10/18 12:33:48
-Start time: 06/10/18 11:58:45
-End time: 06/10/18 12:33:48
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 12:02:49
-Expired: 07/10/18 12:02:49
-Last modified on client: 06/10/18 12:02:49
-Start time: 06/10/18 12:02:44
-End time: 06/10/18 12:02:49
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 12:34:56
-Expired: 07/10/18 12:34:56
-Last modified on client: 06/10/18 12:34:56
-Start time: 06/10/18 12:34:31
-End time: 06/10/18 12:34:56
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 13:03:15
-Expired: 07/10/18 13:03:15
-Last modified on client: 06/10/18 13:24:26
-Start time: 06/10/18 12:35:03
-End time: 06/10/18 13:24:26
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 13:03:19
-Expired: 07/10/18 13:03:19
-Last modified on client: 06/10/18 13:03:19
-Start time: 06/10/18 13:03:16
-End time: 06/10/18 13:03:19
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 13:03:23
-Expired: 07/10/18 13:03:23
-Last modified on client: 06/10/18 13:03:23
-Start time: 06/10/18 13:03:19
-End time: 06/10/18 13:03:23
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 13:04:25
-Expired: 07/10/18 13:04:25
-Last modified on client: 06/10/18 13:05:19
-Start time: 06/10/18 13:03:26
-End time: 06/10/18 13:05:19
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 13:54:24
-Expired: 07/10/18 13:54:24
-Last modified on client: 06/10/18 13:57:35
-Start time: 06/10/18 13:54:09
-End time: 06/10/18 13:57:35
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 13:55:11
-Expired: 07/10/18 13:55:11
-Last modified on client: 06/10/18 13:55:11
-Start time: 06/10/18 13:54:44
-End time: 06/10/18 13:55:11
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 13:57:23
-Expired: 07/10/18 13:57:23
-Last modified on client: 06/10/18 14:59:24
-Start time: 06/10/18 13:55:11
-End time: 06/10/18 14:59:24
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 14:08:16
-Expired: 07/10/18 14:08:16
-Last modified on client: 06/10/18 14:08:16
-Start time: 06/10/18 14:08:07
-End time: 06/10/18 14:08:16
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 14:59:28
-Expired: 07/10/18 14:59:28
-Last modified on client: 06/10/18 14:59:28
-Start time: 06/10/18 14:59:24
-End time: 06/10/18 14:59:28
------------------------------------------------------------------------------------------------------
 FIle opend: PlanetSide2_x64.exe
 Program used: PlanetSide2_x64.exe
 path to file: none
@@ -375,447 +78,6 @@ Expired: 07/26/18 18:44:04
 Last modified on client: 06/10/18 14:59:53
 Start time: 06/10/18 14:59:53
 End time: 01/01/70 01:00:00
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 15:02:43
-Expired: 07/10/18 15:02:43
-Last modified on client: 06/10/18 15:04:11
-Start time: 06/10/18 14:59:53
-End time: 06/10/18 15:04:11
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 15:04:32
-Expired: 07/10/18 15:04:32
-Last modified on client: 06/10/18 15:04:32
-Start time: 06/10/18 15:04:30
-End time: 06/10/18 15:04:32
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 15:04:56
-Expired: 07/10/18 15:04:56
-Last modified on client: 06/10/18 15:04:56
-Start time: 06/10/18 15:04:42
-End time: 06/10/18 15:04:56
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 15:05:15
-Expired: 07/10/18 15:05:15
-Last modified on client: 06/10/18 15:05:15
-Start time: 06/10/18 15:05:03
-End time: 06/10/18 15:05:15
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 15:05:28
-Expired: 07/10/18 15:05:28
-Last modified on client: 06/10/18 15:05:28
-Start time: 06/10/18 15:05:15
-End time: 06/10/18 15:05:28
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 15:26:29
-Expired: 07/10/18 15:26:29
-Last modified on client: 06/10/18 15:26:29
-Start time: 06/10/18 15:05:28
-End time: 06/10/18 15:26:29
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 15:36:36
-Expired: 07/10/18 15:36:36
-Last modified on client: 06/10/18 15:49:44
-Start time: 06/10/18 15:26:35
-End time: 06/10/18 15:49:44
------------------------------------------------------------------------------------------------------
-FIle opend: Excel
-Program used: Excel
-path to file: none
-Last modified: 06/10/18 15:36:39
-Expired: 07/10/18 15:36:39
-Last modified on client: 06/10/18 15:36:39
-Start time: 06/10/18 15:36:39
-End time: 01/01/70 01:00:00
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 15:36:44
-Expired: 07/10/18 15:36:44
-Last modified on client: 06/10/18 15:37:45
-Start time: 06/10/18 15:36:39
-End time: 06/10/18 15:37:45
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 15:37:33
-Expired: 07/10/18 15:37:33
-Last modified on client: 06/10/18 15:37:33
-Start time: 06/10/18 15:36:44
-End time: 06/10/18 15:37:33
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 15:42:38
-Expired: 07/10/18 15:42:38
-Last modified on client: 06/10/18 15:44:03
-Start time: 06/10/18 15:42:12
-End time: 06/10/18 15:44:03
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 16:19:51
-Expired: 07/10/18 16:19:51
-Last modified on client: 06/10/18 16:41:07
-Start time: 06/10/18 16:18:42
-End time: 06/10/18 16:41:07
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 16:19:58
-Expired: 07/10/18 16:19:58
-Last modified on client: 06/10/18 16:19:58
-Start time: 06/10/18 16:19:56
-End time: 06/10/18 16:19:58
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 16:29:17
-Expired: 07/10/18 16:29:17
-Last modified on client: 06/10/18 16:29:17
-Start time: 06/10/18 16:29:10
-End time: 06/10/18 16:29:17
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 16:29:22
-Expired: 07/10/18 16:29:22
-Last modified on client: 06/10/18 16:29:22
-Start time: 06/10/18 16:29:20
-End time: 06/10/18 16:29:22
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 16:32:15
-Expired: 07/10/18 16:32:15
-Last modified on client: 06/10/18 16:32:15
-Start time: 06/10/18 16:32:13
-End time: 06/10/18 16:32:15
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 17:55:38
-Expired: 07/10/18 17:55:38
-Last modified on client: 06/10/18 18:12:02
-Start time: 06/10/18 17:55:05
-End time: 06/10/18 18:12:02
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 17:55:40
-Expired: 07/10/18 17:55:40
-Last modified on client: 06/10/18 17:55:40
-Start time: 06/10/18 17:55:38
-End time: 06/10/18 17:55:40
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 17:55:46
-Expired: 07/10/18 17:55:46
-Last modified on client: 06/10/18 17:59:08
-Start time: 06/10/18 17:55:43
-End time: 06/10/18 17:59:08
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 18:11:50
-Expired: 07/10/18 18:11:50
-Last modified on client: 06/10/18 18:11:50
-Start time: 06/10/18 18:11:47
-End time: 06/10/18 18:11:50
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 18:12:19
-Expired: 07/10/18 18:12:19
-Last modified on client: 06/10/18 18:12:31
-Start time: 06/10/18 18:12:12
-End time: 06/10/18 18:12:31
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 18:12:29
-Expired: 07/10/18 18:12:29
-Last modified on client: 06/10/18 18:12:29
-Start time: 06/10/18 18:12:21
-End time: 06/10/18 18:12:29
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 18:12:35
-Expired: 07/10/18 18:12:35
-Last modified on client: 06/10/18 18:12:43
-Start time: 06/10/18 18:12:32
-End time: 06/10/18 18:12:43
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 18:15:02
-Expired: 07/10/18 18:15:02
-Last modified on client: 06/10/18 18:27:56
-Start time: 06/10/18 18:14:52
-End time: 06/10/18 18:27:56
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 18:28:02
-Expired: 07/10/18 18:28:02
-Last modified on client: 06/10/18 18:33:04
-Start time: 06/10/18 18:28:00
-End time: 06/10/18 18:33:04
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 18:28:45
-Expired: 07/10/18 18:28:45
-Last modified on client: 06/10/18 18:28:45
-Start time: 06/10/18 18:27:59
-End time: 06/10/18 18:28:45
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 18:33:11
-Expired: 07/10/18 18:33:11
-Last modified on client: 06/10/18 18:33:11
-Start time: 06/10/18 18:33:09
-End time: 06/10/18 18:33:11
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 18:33:14
-Expired: 07/10/18 18:33:14
-Last modified on client: 06/10/18 18:33:14
-Start time: 06/10/18 18:33:12
-End time: 06/10/18 18:33:14
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 18:33:37
-Expired: 07/10/18 18:33:37
-Last modified on client: 06/10/18 18:44:07
-Start time: 06/10/18 18:33:18
-End time: 06/10/18 18:44:07
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 20:13:22
-Expired: 07/10/18 20:13:22
-Last modified on client: 06/10/18 20:13:22
-Start time: 06/10/18 20:12:58
-End time: 06/10/18 20:13:22
------------------------------------------------------------------------------------------------------
-FIle opend: beyblade 227 (078) building the perfect bit beast! (andyscot).avi
-Program used: KMPlayer
-path to file: "description":"E:\\skidanje\\Series 2\\beyblade 227 (078) building the perfect bit beast! (andyscot).avi"
-Last modified: 06/10/18 20:13:22
-Expired: 07/10/18 20:13:22
-Last modified on client: 06/10/18 20:13:22
-Start time: 06/10/18 20:13:22
-End time: 01/01/70 01:00:00
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 20:13:22
-Expired: 07/10/18 20:13:22
-Last modified on client: 06/10/18 20:13:51
-Start time: 06/10/18 20:13:22
-End time: 06/10/18 20:13:51
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 21:23:40
-Expired: 07/10/18 21:23:40
-Last modified on client: 06/10/18 21:23:40
-Start time: 06/10/18 20:13:51
-End time: 06/10/18 21:23:40
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 22:19:49
-Expired: 07/10/18 22:19:49
-Last modified on client: 06/10/18 22:19:49
-Start time: 06/10/18 22:19:45
-End time: 06/10/18 22:19:49
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 22:22:50
-Expired: 07/10/18 22:22:50
-Last modified on client: 06/10/18 22:22:50
-Start time: 06/10/18 22:19:49
-End time: 06/10/18 22:22:50
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 22:26:51
-Expired: 07/10/18 22:26:51
-Last modified on client: 06/10/18 23:09:38
-Start time: 06/10/18 22:22:53
-End time: 06/10/18 23:09:38
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 22:40:37
-Expired: 07/10/18 22:40:37
-Last modified on client: 06/10/18 22:40:37
-Start time: 06/10/18 22:40:02
-End time: 06/10/18 22:40:37
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 22:41:03
-Expired: 07/10/18 22:41:03
-Last modified on client: 06/10/18 22:41:03
-Start time: 06/10/18 22:40:57
-End time: 06/10/18 22:41:03
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 22:41:07
-Expired: 07/10/18 22:41:07
-Last modified on client: 06/10/18 22:41:07
-Start time: 06/10/18 22:41:03
-End time: 06/10/18 22:41:07
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 22:42:06
-Expired: 07/10/18 22:42:06
-Last modified on client: 06/10/18 22:42:06
-Start time: 06/10/18 22:42:02
-End time: 06/10/18 22:42:06
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 22:42:13
-Expired: 07/10/18 22:42:13
-Last modified on client: 06/10/18 22:42:13
-Start time: 06/10/18 22:42:06
-End time: 06/10/18 22:42:13
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 22:42:27
-Expired: 07/10/18 22:42:27
-Last modified on client: 06/10/18 22:42:27
-Start time: 06/10/18 22:42:23
-End time: 06/10/18 22:42:27
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 22:42:38
-Expired: 07/10/18 22:42:38
-Last modified on client: 06/10/18 22:42:38
-Start time: 06/10/18 22:42:32
-End time: 06/10/18 22:42:38
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 22:43:56
-Expired: 07/10/18 22:43:56
-Last modified on client: 06/10/18 22:43:56
-Start time: 06/10/18 22:42:42
-End time: 06/10/18 22:43:56
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 22:44:03
-Expired: 07/10/18 22:44:03
-Last modified on client: 06/10/18 22:44:08
-Start time: 06/10/18 22:43:58
-End time: 06/10/18 22:44:08
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 22:47:08
-Expired: 07/10/18 22:47:08
-Last modified on client: 06/10/18 22:47:20
-Start time: 06/10/18 22:47:00
-End time: 06/10/18 22:47:20
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 22:47:18
-Expired: 07/10/18 22:47:18
-Last modified on client: 06/10/18 22:47:18
-Start time: 06/10/18 22:47:12
-End time: 06/10/18 22:47:18
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 22:47:30
-Expired: 07/10/18 22:47:30
-Last modified on client: 06/10/18 22:47:30
-Start time: 06/10/18 22:47:24
-End time: 06/10/18 22:47:30
------------------------------------------------------------------------------------------------------
-FIle opend:  
-Program used:  
-path to file: none
-Last modified: 06/10/18 22:49:11
-Expired: 07/10/18 22:49:11
-Last modified on client: 06/10/18 22:49:11
-Start time: 06/10/18 22:49:00
-End time: 06/10/18 22:49:11
 -----------------------------------------------------------------------------------------------------
 FIle opend:  
 Program used:  
@@ -1505,7 +767,7 @@ FIle opend: Fotografije
 Program used: Fotografije
 path to file: none
 Last modified: 06/17/18 22:38:06
-Expired: 07/17/18 22:38:06
+Expired: 08/09/18 23:44:19
 Last modified on client: 06/17/18 22:38:06
 Start time: 06/17/18 22:38:06
 End time: 01/01/70 01:00:00
@@ -6240,9 +5502,9 @@ Program used:
 path to file: none
 Last modified: 07/10/18 01:06:28
 Expired: 08/09/18 01:06:28
-Last modified on client: 07/10/18 01:19:15
+Last modified on client: 07/10/18 01:47:57
 Start time: 07/10/18 01:06:23
-End time: 07/10/18 01:19:15
+End time: 07/10/18 01:47:57
 -----------------------------------------------------------------------------------------------------
 FIle opend:  
 Program used:  
@@ -6402,9 +5664,9 @@ Program used:
 path to file: none
 Last modified: 07/10/18 01:19:13
 Expired: 08/09/18 01:19:13
-Last modified on client: 07/10/18 01:19:27
+Last modified on client: 07/10/18 01:19:36
 Start time: 07/10/18 01:19:10
-End time: 07/10/18 01:19:27
+End time: 07/10/18 01:19:36
 -----------------------------------------------------------------------------------------------------
 FIle opend:  
 Program used:  
@@ -6414,4 +5676,832 @@ Expired: 08/09/18 01:19:30
 Last modified on client: 07/10/18 01:19:30
 Start time: 07/10/18 01:19:27
 End time: 07/10/18 01:19:30
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:20:23
+Expired: 08/09/18 01:20:23
+Last modified on client: 07/10/18 01:21:37
+Start time: 07/10/18 01:19:41
+End time: 07/10/18 01:21:37
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:21:43
+Expired: 08/09/18 01:21:43
+Last modified on client: 07/10/18 01:21:46
+Start time: 07/10/18 01:21:37
+End time: 07/10/18 01:21:46
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:24:16
+Expired: 08/09/18 01:24:16
+Last modified on client: 07/10/18 01:40:07
+Start time: 07/10/18 01:23:51
+End time: 07/10/18 01:40:07
+-----------------------------------------------------------------------------------------------------
+FIle opend: Windows PowerShell
+Program used: Windows PowerShell
+path to file: none
+Last modified: 07/10/18 01:24:23
+Expired: 08/09/18 01:24:23
+Last modified on client: 07/10/18 01:24:23
+Start time: 07/10/18 01:24:23
+End time: 01/01/70 01:00:00
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:25:00
+Expired: 08/09/18 01:25:00
+Last modified on client: 07/10/18 01:41:13
+Start time: 07/10/18 01:24:23
+End time: 07/10/18 01:41:13
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:25:09
+Expired: 08/09/18 01:25:09
+Last modified on client: 07/10/18 01:45:26
+Start time: 07/10/18 01:25:02
+End time: 07/10/18 01:45:26
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:26:40
+Expired: 08/09/18 01:26:40
+Last modified on client: 07/10/18 01:27:35
+Start time: 07/10/18 01:26:02
+End time: 07/10/18 01:27:35
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:28:07
+Expired: 08/09/18 01:28:07
+Last modified on client: 07/10/18 01:28:09
+Start time: 07/10/18 01:28:03
+End time: 07/10/18 01:28:09
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:28:58
+Expired: 08/09/18 01:28:58
+Last modified on client: 07/10/18 01:28:58
+Start time: 07/10/18 01:28:51
+End time: 07/10/18 01:28:58
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:29:23
+Expired: 08/09/18 01:29:23
+Last modified on client: 07/10/18 01:29:23
+Start time: 07/10/18 01:29:21
+End time: 07/10/18 01:29:23
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:30:29
+Expired: 08/09/18 01:30:29
+Last modified on client: 07/10/18 01:30:41
+Start time: 07/10/18 01:30:03
+End time: 07/10/18 01:30:41
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:31:37
+Expired: 08/09/18 01:31:37
+Last modified on client: 07/10/18 01:31:37
+Start time: 07/10/18 01:31:28
+End time: 07/10/18 01:31:37
+-----------------------------------------------------------------------------------------------------
+FIle opend: rezultati.txt
+Program used: Notepad
+path to file: "description":"C:\\Users\\gslad\\Documents\\GitHub\\Diplomski\\Python\\RecentDocsMRU-gotovo\\rezultati.txt"
+Last modified: 07/10/18 01:31:48
+Expired: 08/09/18 01:31:48
+Last modified on client: 07/10/18 01:31:48
+Start time: 07/10/18 01:31:48
+End time: 01/01/70 01:00:00
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:31:48
+Expired: 08/09/18 01:31:48
+Last modified on client: 07/10/18 01:31:50
+Start time: 07/10/18 01:31:48
+End time: 07/10/18 01:31:50
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:32:06
+Expired: 08/09/18 01:32:06
+Last modified on client: 07/10/18 01:32:08
+Start time: 07/10/18 01:32:00
+End time: 07/10/18 01:32:08
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:33:06
+Expired: 08/09/18 01:33:06
+Last modified on client: 07/10/18 01:33:35
+Start time: 07/10/18 01:32:42
+End time: 07/10/18 01:33:35
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:34:51
+Expired: 08/09/18 01:34:51
+Last modified on client: 07/10/18 01:34:51
+Start time: 07/10/18 01:34:47
+End time: 07/10/18 01:34:51
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:36:17
+Expired: 08/09/18 01:36:17
+Last modified on client: 07/10/18 01:40:12
+Start time: 07/10/18 01:35:59
+End time: 07/10/18 01:40:12
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:40:31
+Expired: 08/09/18 01:40:31
+Last modified on client: 07/10/18 01:51:56
+Start time: 07/10/18 01:35:53
+End time: 07/10/18 01:51:56
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:42:34
+Expired: 08/09/18 01:42:34
+Last modified on client: 07/10/18 01:42:34
+Start time: 07/10/18 01:42:29
+End time: 07/10/18 01:42:34
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:43:18
+Expired: 08/09/18 01:43:18
+Last modified on client: 07/10/18 01:43:18
+Start time: 07/10/18 01:42:49
+End time: 07/10/18 01:43:18
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:43:23
+Expired: 08/09/18 01:43:23
+Last modified on client: 07/10/18 01:43:25
+Start time: 07/10/18 01:43:18
+End time: 07/10/18 01:43:25
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:44:58
+Expired: 08/09/18 01:44:58
+Last modified on client: 07/10/18 01:44:58
+Start time: 07/10/18 01:43:49
+End time: 07/10/18 01:44:58
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:45:20
+Expired: 08/09/18 01:45:20
+Last modified on client: 07/10/18 01:45:20
+Start time: 07/10/18 01:45:16
+End time: 07/10/18 01:45:20
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:45:30
+Expired: 08/09/18 01:45:30
+Last modified on client: 07/10/18 01:46:29
+Start time: 07/10/18 01:45:26
+End time: 07/10/18 01:46:29
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:47:49
+Expired: 08/09/18 01:47:49
+Last modified on client: 07/10/18 01:47:54
+Start time: 07/10/18 01:46:42
+End time: 07/10/18 01:47:54
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:51:40
+Expired: 08/09/18 01:51:40
+Last modified on client: 07/10/18 01:51:40
+Start time: 07/10/18 01:48:37
+End time: 07/10/18 01:51:40
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:52:49
+Expired: 08/09/18 01:52:49
+Last modified on client: 07/10/18 01:58:08
+Start time: 07/10/18 01:52:38
+End time: 07/10/18 01:58:08
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:52:53
+Expired: 08/09/18 01:52:53
+Last modified on client: 07/10/18 01:52:53
+Start time: 07/10/18 01:52:49
+End time: 07/10/18 01:52:53
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:55:04
+Expired: 08/09/18 01:55:04
+Last modified on client: 07/10/18 02:01:24
+Start time: 07/10/18 01:53:03
+End time: 07/10/18 02:01:24
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:55:18
+Expired: 08/09/18 01:55:18
+Last modified on client: 07/10/18 01:55:29
+Start time: 07/10/18 01:55:09
+End time: 07/10/18 01:55:29
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 01:58:17
+Expired: 08/09/18 01:58:17
+Last modified on client: 07/10/18 02:03:18
+Start time: 07/10/18 01:58:08
+End time: 07/10/18 02:03:18
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 22:07:24
+Expired: 08/09/18 22:07:24
+Last modified on client: 07/10/18 22:08:18
+Start time: 07/10/18 21:55:43
+End time: 07/10/18 22:08:18
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 22:23:45
+Expired: 08/09/18 22:23:45
+Last modified on client: 07/10/18 23:23:21
+Start time: 07/10/18 22:08:27
+End time: 07/10/18 23:23:21
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 22:48:50
+Expired: 08/09/18 22:48:50
+Last modified on client: 07/10/18 22:48:50
+Start time: 07/10/18 22:48:46
+End time: 07/10/18 22:48:50
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 22:51:55
+Expired: 08/09/18 22:51:55
+Last modified on client: 07/10/18 22:52:20
+Start time: 07/10/18 22:51:44
+End time: 07/10/18 22:52:20
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 22:52:18
+Expired: 08/09/18 22:52:18
+Last modified on client: 07/10/18 23:22:27
+Start time: 07/10/18 22:51:55
+End time: 07/10/18 23:22:27
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 22:53:38
+Expired: 08/09/18 22:53:38
+Last modified on client: 07/10/18 23:04:02
+Start time: 07/10/18 22:53:00
+End time: 07/10/18 23:04:02
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 22:57:04
+Expired: 08/09/18 22:57:04
+Last modified on client: 07/10/18 23:04:43
+Start time: 07/10/18 22:55:02
+End time: 07/10/18 23:04:43
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 22:57:46
+Expired: 08/09/18 22:57:46
+Last modified on client: 07/10/18 23:03:34
+Start time: 07/10/18 22:57:10
+End time: 07/10/18 23:03:34
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:05:02
+Expired: 08/09/18 23:05:02
+Last modified on client: 07/10/18 23:05:09
+Start time: 07/10/18 23:04:51
+End time: 07/10/18 23:05:09
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:06:01
+Expired: 08/09/18 23:06:01
+Last modified on client: 07/10/18 23:13:33
+Start time: 07/10/18 23:05:54
+End time: 07/10/18 23:13:33
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:06:29
+Expired: 08/09/18 23:06:29
+Last modified on client: 07/10/18 23:07:39
+Start time: 07/10/18 23:06:01
+End time: 07/10/18 23:07:39
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:13:31
+Expired: 08/09/18 23:13:31
+Last modified on client: 07/10/18 23:13:31
+Start time: 07/10/18 23:13:29
+End time: 07/10/18 23:13:31
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:18:26
+Expired: 08/09/18 23:18:26
+Last modified on client: 07/10/18 23:19:28
+Start time: 07/10/18 23:18:15
+End time: 07/10/18 23:19:28
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:18:34
+Expired: 08/09/18 23:18:34
+Last modified on client: 07/10/18 23:19:45
+Start time: 07/10/18 23:18:26
+End time: 07/10/18 23:19:45
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:19:21
+Expired: 08/09/18 23:19:21
+Last modified on client: 07/10/18 23:19:21
+Start time: 07/10/18 23:19:18
+End time: 07/10/18 23:19:21
+-----------------------------------------------------------------------------------------------------
+FIle opend: msiexec.exe
+Program used: msiexec.exe
+path to file: none
+Last modified: 07/10/18 23:19:51
+Expired: 08/09/18 23:19:51
+Last modified on client: 07/10/18 23:19:51
+Start time: 07/10/18 23:19:51
+End time: 01/01/70 01:00:00
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:19:55
+Expired: 08/09/18 23:19:55
+Last modified on client: 07/10/18 23:19:55
+Start time: 07/10/18 23:19:51
+End time: 07/10/18 23:19:55
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:22:08
+Expired: 08/09/18 23:22:08
+Last modified on client: 07/10/18 23:22:08
+Start time: 07/10/18 23:21:50
+End time: 07/10/18 23:22:08
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:23:16
+Expired: 08/09/18 23:23:16
+Last modified on client: 07/10/18 23:25:52
+Start time: 07/10/18 23:22:34
+End time: 07/10/18 23:25:52
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:27:34
+Expired: 08/09/18 23:27:34
+Last modified on client: 07/10/18 23:27:34
+Start time: 07/10/18 23:27:30
+End time: 07/10/18 23:27:34
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:28:47
+Expired: 08/09/18 23:28:47
+Last modified on client: 07/10/18 23:36:39
+Start time: 07/10/18 23:27:42
+End time: 07/10/18 23:36:39
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:29:01
+Expired: 08/09/18 23:29:01
+Last modified on client: 07/11/18 00:54:21
+Start time: 07/10/18 23:28:53
+End time: 07/11/18 00:54:21
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:31:04
+Expired: 08/09/18 23:31:04
+Last modified on client: 07/10/18 23:34:57
+Start time: 07/10/18 23:29:01
+End time: 07/10/18 23:34:57
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:31:27
+Expired: 08/09/18 23:31:27
+Last modified on client: 07/10/18 23:31:27
+Start time: 07/10/18 23:31:19
+End time: 07/10/18 23:31:27
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:37:41
+Expired: 08/09/18 23:37:41
+Last modified on client: 07/10/18 23:37:41
+Start time: 07/10/18 23:36:46
+End time: 07/10/18 23:37:41
+-----------------------------------------------------------------------------------------------------
+FIle opend: ttt.txt
+Program used: Notepad
+path to file: "description":"C:\\Users\\gslad\\Desktop\\ttt.txt"
+Last modified: 07/10/18 23:37:42
+Expired: 08/09/18 23:37:42
+Last modified on client: 07/10/18 23:37:42
+Start time: 07/10/18 23:37:42
+End time: 01/01/70 01:00:00
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:37:42
+Expired: 08/09/18 23:37:42
+Last modified on client: 07/10/18 23:38:45
+Start time: 07/10/18 23:37:42
+End time: 07/10/18 23:38:45
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:38:54
+Expired: 08/09/18 23:38:54
+Last modified on client: 07/10/18 23:38:54
+Start time: 07/10/18 23:38:49
+End time: 07/10/18 23:38:54
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:39:22
+Expired: 08/09/18 23:39:22
+Last modified on client: 07/10/18 23:39:22
+Start time: 07/10/18 23:39:22
+End time: 07/10/18 23:39:22
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:40:04
+Expired: 08/09/18 23:40:04
+Last modified on client: 07/10/18 23:40:04
+Start time: 07/10/18 23:40:00
+End time: 07/10/18 23:40:04
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:40:07
+Expired: 08/09/18 23:40:07
+Last modified on client: 07/10/18 23:40:07
+Start time: 07/10/18 23:40:05
+End time: 07/10/18 23:40:07
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:40:10
+Expired: 08/09/18 23:40:10
+Last modified on client: 07/10/18 23:40:13
+Start time: 07/10/18 23:39:59
+End time: 07/10/18 23:40:13
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:40:15
+Expired: 08/09/18 23:40:15
+Last modified on client: 07/10/18 23:40:15
+Start time: 07/10/18 23:40:13
+End time: 07/10/18 23:40:15
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:40:16
+Expired: 08/09/18 23:40:16
+Last modified on client: 07/10/18 23:40:16
+Start time: 07/10/18 23:40:16
+End time: 07/10/18 23:40:16
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:41:51
+Expired: 08/09/18 23:41:51
+Last modified on client: 07/10/18 23:42:45
+Start time: 07/10/18 23:41:27
+End time: 07/10/18 23:42:45
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:41:58
+Expired: 08/09/18 23:41:58
+Last modified on client: 07/10/18 23:44:25
+Start time: 07/10/18 23:41:52
+End time: 07/10/18 23:44:25
+-----------------------------------------------------------------------------------------------------
+FIle opend: Screenshot_1.png
+Program used: Fotografije
+path to file: "description":"C:\\Users\\gslad\\Desktop\\Screenshot_1.png"
+Last modified: 07/10/18 23:44:16
+Expired: 08/09/18 23:44:16
+Last modified on client: 07/10/18 23:44:16
+Start time: 07/10/18 23:44:16
+End time: 01/01/70 01:00:00
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:44:16
+Expired: 08/09/18 23:44:16
+Last modified on client: 07/10/18 23:44:16
+Start time: 07/10/18 23:44:16
+End time: 07/10/18 23:44:16
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:44:19
+Expired: 08/09/18 23:44:19
+Last modified on client: 07/10/18 23:44:19
+Start time: 07/10/18 23:44:16
+End time: 07/10/18 23:44:19
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/10/18 23:50:17
+Expired: 08/09/18 23:50:17
+Last modified on client: 07/10/18 23:50:17
+Start time: 07/10/18 23:50:12
+End time: 07/10/18 23:50:17
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 00:54:23
+Expired: 08/10/18 00:54:23
+Last modified on client: 07/11/18 01:03:10
+Start time: 07/11/18 00:54:21
+End time: 07/11/18 01:03:10
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 00:54:25
+Expired: 08/10/18 00:54:25
+Last modified on client: 07/11/18 00:54:25
+Start time: 07/11/18 00:54:23
+End time: 07/11/18 00:54:25
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 00:54:27
+Expired: 08/10/18 00:54:27
+Last modified on client: 07/11/18 00:58:30
+Start time: 07/11/18 00:54:25
+End time: 07/11/18 00:58:30
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 01:03:06
+Expired: 08/10/18 01:03:06
+Last modified on client: 07/11/18 01:03:06
+Start time: 07/11/18 01:02:19
+End time: 07/11/18 01:03:06
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 17:07:23
+Expired: 08/10/18 17:07:23
+Last modified on client: 07/11/18 18:38:34
+Start time: 07/11/18 16:51:05
+End time: 07/11/18 18:38:34
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 18:33:14
+Expired: 08/10/18 18:33:14
+Last modified on client: 07/11/18 18:39:50
+Start time: 07/11/18 18:33:12
+End time: 07/11/18 18:39:50
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 18:38:58
+Expired: 08/10/18 18:38:58
+Last modified on client: 07/11/18 18:38:58
+Start time: 07/11/18 18:38:55
+End time: 07/11/18 18:38:58
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 18:39:54
+Expired: 08/10/18 18:39:54
+Last modified on client: 07/11/18 18:47:50
+Start time: 07/11/18 18:39:47
+End time: 07/11/18 18:47:50
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 18:40:07
+Expired: 08/10/18 18:40:07
+Last modified on client: 07/11/18 18:47:58
+Start time: 07/11/18 18:40:05
+End time: 07/11/18 18:47:58
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 18:40:50
+Expired: 08/10/18 18:40:50
+Last modified on client: 07/11/18 18:45:28
+Start time: 07/11/18 18:40:43
+End time: 07/11/18 18:45:28
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 18:45:21
+Expired: 08/10/18 18:45:21
+Last modified on client: 07/11/18 18:45:21
+Start time: 07/11/18 18:45:15
+End time: 07/11/18 18:45:21
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 18:48:23
+Expired: 08/10/18 18:48:23
+Last modified on client: 07/11/18 18:48:23
+Start time: 07/11/18 18:47:59
+End time: 07/11/18 18:48:23
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 18:48:25
+Expired: 08/10/18 18:48:25
+Last modified on client: 07/11/18 18:49:49
+Start time: 07/11/18 18:47:58
+End time: 07/11/18 18:49:49
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 18:48:41
+Expired: 08/10/18 18:48:41
+Last modified on client: 07/11/18 18:48:41
+Start time: 07/11/18 18:48:25
+End time: 07/11/18 18:48:41
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 18:48:59
+Expired: 08/10/18 18:48:59
+Last modified on client: 07/11/18 18:48:59
+Start time: 07/11/18 18:48:44
+End time: 07/11/18 18:48:59
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 18:49:03
+Expired: 08/10/18 18:49:03
+Last modified on client: 07/11/18 18:49:03
+Start time: 07/11/18 18:49:01
+End time: 07/11/18 18:49:03
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 18:49:09
+Expired: 08/10/18 18:49:09
+Last modified on client: 07/11/18 18:49:09
+Start time: 07/11/18 18:49:04
+End time: 07/11/18 18:49:09
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 18:49:20
+Expired: 08/10/18 18:49:20
+Last modified on client: 07/11/18 18:49:20
+Start time: 07/11/18 18:49:16
+End time: 07/11/18 18:49:20
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 18:49:25
+Expired: 08/10/18 18:49:25
+Last modified on client: 07/11/18 18:49:25
+Start time: 07/11/18 18:49:22
+End time: 07/11/18 18:49:25
+-----------------------------------------------------------------------------------------------------
+FIle opend:  
+Program used:  
+path to file: none
+Last modified: 07/11/18 18:49:28
+Expired: 08/10/18 18:49:28
+Last modified on client: 07/11/18 18:49:28
+Start time: 07/11/18 18:49:26
+End time: 07/11/18 18:49:28
 -----------------------------------------------------------------------------------------------------

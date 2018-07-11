@@ -14,11 +14,11 @@ def search_for_password(datoteka,text):
             imena=str(useriRaw[1]).lstrip().rstrip()
             print imena
             # sad trazit pass za svakog nadenog usera
-            os.popen('netsh wlan show profiles name="'+imena+'" key=clear >> Credentials2.txt')
+            os.popen('netsh wlan show profiles name="'+imena+'" key=clear >> C:\Users\gslad\Documents\GitHub\Diplomski\Rezultati\WifiPassUser\Credentials2.txt')
     print '>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>'
 def edit_rez(user,password):
     brojac2=1
-    rezultati = open("Credentials2.txt", "r")
+    rezultati = open("C:\Users\gslad\Documents\GitHub\Diplomski\Rezultati\WifiPassUser\Credentials2.txt", "r")
     for retci in rezultati.readlines():
         if user in retci:
             print retci
@@ -32,12 +32,12 @@ def edit_rez(user,password):
     print "<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
     rezultati.close()
 
-os.popen("netsh wlan show profiles > Profili.txt")
+os.popen("netsh wlan show profiles > C:\Users\gslad\Documents\GitHub\Diplomski\Rezultati\WifiPassUser\Profili.txt")
 
 
-profili=open("Profili.txt", "r")
+profili=open("C:\Users\gslad\Documents\GitHub\Diplomski\Rezultati\WifiPassUser\Profili.txt", "r")
 
-userAndPass=open("userIpass.txt", "w")
+userAndPass=open("C:\Users\gslad\Documents\GitHub\Diplomski\Rezultati\WifiPassUser\userIpass.txt", "w")
 
 useriRaw= []
 nameRaw = []
@@ -48,7 +48,7 @@ traziName= "Name"
 traziKey= "Key Content"
 
 
-deleteContent("Credentials2.txt")
+deleteContent("C:\Users\gslad\Documents\GitHub\Diplomski\Rezultati\WifiPassUser\Credentials2.txt")
 search_for_password(profili,traziUser)
 edit_rez(traziName,traziKey)
 

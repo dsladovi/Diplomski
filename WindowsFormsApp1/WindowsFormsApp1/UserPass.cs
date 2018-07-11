@@ -20,7 +20,7 @@ namespace WindowsFormsApp1
 
             Process p = new Process();
                 p.StartInfo = new ProcessStartInfo(@"C:\Python27\python.exe", scriptPath);
-                p.StartInfo.WorkingDirectory = @"C:\Users\gslad\Documents\GitHub\Diplomski\Python\APs";
+                p.StartInfo.WorkingDirectory = @"C:\Users\gslad\Documents\GitHub\Diplomski\Rezultati\WifiPassUser";
                 p.Start();
                 p.WaitForExit();
                 p.Close();
@@ -29,20 +29,20 @@ namespace WindowsFormsApp1
 
             if (message == DialogResult.Yes)
             {
-                Process.Start(@"C:\Users\gslad\Documents\GitHub\Diplomski\Python\APs\userIpass.txt");
+                Process.Start(@"C:\Users\gslad\Documents\GitHub\Diplomski\Rezultati\WifiPassUser\userIpass.txt");
                 DialogResult detalji = MessageBox.Show("Dali želite vidjeti detaljnije podatke ?", "Upozorenje", MessageBoxButtons.YesNo);
                 if (detalji == DialogResult.Yes)
                 {
-                    Process.Start(@"C:\Users\gslad\Documents\GitHub\Diplomski\Python\APs\Credentials2.txt");
+                    Process.Start(@"C:\Users\gslad\Documents\GitHub\Diplomski\Rezultati\WifiPassUser\Credentials2.txt");
                 }
                 else
                 {
-                    MessageBox.Show("Rezultati ove skripte su pohranjeni u: C:\\Users\\gslad\\Documents\\GitHub\\Diplomski\\Python\\APs\n\n Credentials2.txt\n Profili.txt\n userIpass.txt\n", "Rezultati");
+                    MessageBox.Show("Rezultati ove skripte su pohranjeni u: C:\\Users\\gslad\\Documents\\GitHub\\Diplomski\\Rezultati\\WifiPassUser\n\n Credentials2.txt\n Profili.txt\n userIpass.txt\n", "Rezultati");
                 }
             }
             else
             {
-                MessageBox.Show("Rezultati ove skripte su pohranjeni u: C:\\Users\\gslad\\Documents\\GitHub\\Diplomski\\Python\\APs\n\n Credentials2.txt\n Profili.txt\n userIpass.txt\n", "Rezultati");
+                MessageBox.Show("Rezultati ove skripte su pohranjeni u: C:\\Users\\gslad\\Documents\\GitHub\\Diplomski\\Rezultati\\WifiPassUser\n\n Credentials2.txt\n Profili.txt\n userIpass.txt\n", "Rezultati");
             }
         }
     }

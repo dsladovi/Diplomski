@@ -1,0 +1,20 @@
+
+Profiles on interface Wi-Fi:
+
+Group policy profiles (read only)
+---------------------------------
+    <None>
+
+User profiles
+-------------
+    All User Profile     : Optima-5862ac
+    All User Profile     : NOA_N8
+    All User Profile     : NOA_H5
+    All User Profile     : BEM Fifi
+    All User Profile     : Sladovic WIFI
+    All User Profile     : Goran WiFi
+    All User Profile     : INsig2_public
+    All User Profile     : HUAWEI-5IUDZF
+    All User Profile     : SladovicFIFI
+    All User Profile     : symaS107F
+
